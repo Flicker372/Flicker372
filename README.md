@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Flicker
+- 👋 Hi, I’m Flicker
 - 👀 I’m interested in Anime
 - 🌱 I’m currently learning C
 - 📫 How to reach me https://t.me/Flicker372
