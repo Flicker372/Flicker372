@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Flicker
 - 👀 I’m interested in Anime
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C / C++
 - 📫 How to reach me https://t.me/Flicker372
 
 #### My Github Stats:
